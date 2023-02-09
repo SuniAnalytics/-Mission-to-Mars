@@ -9,3 +9,15 @@
     - Data Analysis: Scrape, analyze and provide insights on Mars weather data
 
 # Analysis Summary
+
+
+![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/2AvgTempbyMonth.png)
+
+
+![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
+
+
+![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
+
+
+![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/5%23ofTerrestrialDays.png)
