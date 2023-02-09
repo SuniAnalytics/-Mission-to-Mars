@@ -19,8 +19,8 @@ Below is a summary of insights from the data analysis
      1867 Days
 
 3. Based on Avg Temp by Month on Mars:
-      - Coldest Month: 
-      - Warmest Month:
+      - Coldest Month: 8th Month
+      - Warmest Month: 3rd Month
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
 
