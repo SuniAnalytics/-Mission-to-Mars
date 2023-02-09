@@ -25,8 +25,8 @@ Below is a summary of insights from the data analysis
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
 
 4. Avg atmospheric pressure 
-      - Lowest Month:
-      - Highest Month:
+      - Lowest Month: 6th Month
+      - Highest Month: 9th Month
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
 
