@@ -18,17 +18,15 @@ Below is a summary of insights from the data analysis
 2. No.of Martian days worth of data in the scraped dataset
      1867 Days
 
-3. Avg Temp by Month on Mars:
-      Coldest Month
-      Warmest Month
+3. Based on Avg Temp by Month on Mars:
+      - Coldest Month: 
+      - Warmest Month:
 
-  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/2AvgTempbyMonth.png)
-  
-   [](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
+  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
 
 4. Avg atmospheric pressure 
-      Lowest Month
-      Highest Month
+      - Lowest Month:
+      - Highest Month:
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
 
