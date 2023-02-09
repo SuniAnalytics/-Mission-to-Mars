@@ -30,6 +30,6 @@ Below is a summary of insights from the data analysis
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
 
-5. No.of terrestrial days in a martian year      
+5. No.of terrestrial days in a martian year : 687 earth days     
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/5%23ofTerrestrialDays.png)
