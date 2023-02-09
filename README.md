@@ -10,14 +10,16 @@
 
 # Analysis Summary
 
+Below is a summary of insights from the data analysis
 
-![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/2AvgTempbyMonth.png)
-
-
-![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
-
-
-![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
+1. 
+  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/2AvgTempbyMonth.png)
 
 
-![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/5%23ofTerrestrialDays.png)
+  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/3ColdHotMonths.png)
+
+
+  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
+
+
+  ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/5%23ofTerrestrialDays.png)
