@@ -12,10 +12,10 @@
 
 Below is a summary of insights from the data analysis
 
-1. # of Months on Mars
+1. No.of Months on Mars
      12 Months
      
-2. # of Martian days worth of data in the scraped dataset
+2. No.of Martian days worth of data in the scraped dataset
      1867 Days
 
 3. Avg Temp by Month on Mars:
@@ -32,9 +32,6 @@ Below is a summary of insights from the data analysis
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/4AvgPressurebyMonth.png)
 
-5.       
-About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
-Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-Visually estimate the result by plotting the daily minimum temperature.
+5. No.of terrestrial days in a martian year      
 
   ![](https://github.com/SuniAnalytics/Mission-to-Mars/blob/main/Resources/5%23ofTerrestrialDays.png)
